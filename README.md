@@ -1,6 +1,8 @@
 # SALES-PERFORMANCE-DASHBOARD-
 I developed an interactive Sales Performance Dashboard using Python, Pandas, and Power BI to analyze revenue trends, top-performing products, regional sales patterns, and customer behavior. The dashboard provides real-time insights that support data-driven decision-making, performance tracking, and strategic sales optimization across business units
 
+<img width="1820" height="738" alt="Screenshot 2025-03-12 045038" src="https://github.com/user-attachments/assets/ccf31636-5c03-416c-b216-774fd84fcf4d" />
+
  PROJECT POSITIONING
 # Sales Performance Dashboard – Enterprise Financial Analytics System
 
